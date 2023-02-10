@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    /* tablet screens */
+    body{
+        background: purple;
+    }
+
+    }
+
+    @media (max-width: 1200px) {
+        /* desktop screens */
+        body{
+            background: grey;
+        }
+    }
